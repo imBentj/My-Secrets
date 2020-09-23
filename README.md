@@ -1,4 +1,4 @@
-# Authentication-Secrets
+# My-Secrets
 
 - A Web application to store all your secrets.
 - User can signup via OAuth or Manually.
